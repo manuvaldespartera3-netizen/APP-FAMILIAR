@@ -1,8 +1,8 @@
 const CACHE_NAME = 'familia-app-v9';
 const URLS_TO_CACHE = [
-  '/familia-app/',
-  '/familia-app/index.html',
-  '/familia-app/manifest.json',
+  '/APP-FAMILIAR/',
+  '/APP-FAMILIAR/index.html',
+  '/APP-FAMILIAR/manifest.json',
   'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.js'
 ];
 
