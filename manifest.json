@@ -1,9 +1,9 @@
 {
   "name": "Manuel & Merche - Gastos Familiares",
-  "short_name": "Familia App",
+  "short_name": "APP-FAMILIAR",
   "description": "Control de gastos familiares compartido en tiempo real",
-  "start_url": "/familia-app/",
-  "scope": "/familia-app/",
+  "start_url": "/APP-FAMILIAR/",
+  "scope": "/APP-FAMILIAR/",
   "display": "standalone",
   "background_color": "#f0f9ff",
   "theme_color": "#2563eb",
